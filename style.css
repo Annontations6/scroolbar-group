@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Unicod;
+    src: url(UNicod\ Sans\ Medium.ttf);
+}
+
+::-webkit-progress-bar {
+    color: blue;
+}
